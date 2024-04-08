@@ -1,0 +1,19 @@
+body{
+    color: navy;
+}
+.top-container{
+    background: #B3C8CF;
+}
+.top-vote{
+    width: 150px;
+    height: 150px;
+}
+.second-container{
+    background-color: #BED7DC;
+}
+.third-container{
+    background-color: #E5DDC5;
+}
+.fourth-container{
+    background-color: #F1EEDC;
+}
